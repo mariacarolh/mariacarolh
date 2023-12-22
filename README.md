@@ -1,22 +1,17 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Oi, mundo🐷</h1></summary>
+    <summary><h1 style="display: inline-block">Oii, mundo🐷</h1></summary>
 </div>
 
-<!-- Presentation -->
----
-<p>
-Escrever dps
-</p>
 
-<!-- Dropdown -->
+<!-- Apresentação -->
 <details>
-  <summary>👨‍💻 More about me</summary>
 
-  - 💬 bla
+  <summary>👨‍💻</summary>
 
-  - ⚡bla 
+  - ⚡ Oii, eu sou a Maria. Tenho 20 anos e atualmente estudo Engenharia de Software.
+
 </details>
 
 <!-- Links -->

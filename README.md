@@ -6,13 +6,9 @@
 
 
 <!-- Apresentação -->
-<details>
-
-  <summary>👨‍💻</summary>
-
-  - ⚡ Oii, eu sou a Maria. Tenho 20 anos e atualmente estudo Engenharia de Software.
-
-</details>
+<div <ul align="center">
+  ⚡ Me chamo Maria Carolina. Tenho 20 anos e atualmente estudo Engenharia de Software.
+</div>
 
 <!-- Links -->
 ## Redes :

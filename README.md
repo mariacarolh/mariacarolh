@@ -32,7 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [PHP - Armazenamento de Receitas]([https://github.com/VariableBee/EDA_Loggi](https://github.com/mariacarolh/Projeto-Receita)
+- [PHP - Armazenamento de Receitas](https://github.com/mariacarolh/Projeto-Receita)
 
 <!-- GIF -->
 <p align="left">

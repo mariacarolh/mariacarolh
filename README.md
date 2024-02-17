@@ -7,12 +7,11 @@
 
 <!-- Apresentação -->
 <div <ul align="center">
-  ⚡ Me chamo Maria Carolina. Tenho 20 anos e atualmente estudo Engenharia de Software.
-</div>
+  ⚡ Me chamo Maria Carolina. Tenho 20 anos e atualmente estudo Engenharia de Software. ⚡
+</div><br>
 
 <!-- Links -->
-## Redes :
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/maria-carolina-616125211/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>

@@ -1,11 +1,5 @@
-<!--Título-->
-<div align="center"><summary><h1>Olá, mundo!</h1></summary></div>
-
-<!-- Apresentação -->
-<div align="center">
-  <p>Sou a Maria, tenho 20 anos e estudo Engenharia de Software.</p>
-  <p>🐽</p>
-</div>
+<!--Título / Apresentação-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=prussian&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo,+meu+nome+é+Maria!;Tenho+20+anos+e+estudo+Engenharia+de+Software;Sejam+Bem-Vindos+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
 ---
 <!-- GIF -->
@@ -41,5 +35,11 @@
   <p>“Nós somos o que repetidamente fazemos. Excelência, então, não é um ato, mas um hábito.”</p>
 </div>
 
+---
+
+<!-- Pig -->
+<div align="center">
+  <p>🐽</p>
+</div>
 
 

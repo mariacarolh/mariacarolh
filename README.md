@@ -2,12 +2,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=prussian&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo,+meu+nome+é+Maria!;Tenho+20+anos+e+estudo+Engenharia+de+Software;Sejam+Bem-Vindos+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
 ---
+
 <!-- GIF -->
 <div align="center">
   <img align="center" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Imagem">
 </div>
 
 ---
+
 <!-- GithubStats -->
  <div align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mariacarolh&show_icons=true&theme=prussian">   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacarolh&hide_progress=true&theme=prussian">

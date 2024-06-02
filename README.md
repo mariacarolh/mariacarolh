@@ -1,5 +1,5 @@
 <!--Título / Apresentação-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=prussian&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo,+meu+nome+é+Maria!;Tenho+20+anos+e+estudo+Engenharia+de+Software;Sejam+Bem-Vindos+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=prussian&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo,+meu+nome+é+Maria!;Tenho+20+anos+e+estudo+Engenharia+de+Software;Sejam+Bem-Vindos+ao+meu+GIT+:%29)](https://git.io/typing-svg)
 
 ---
 
